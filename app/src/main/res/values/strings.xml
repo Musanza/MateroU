@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Matero App</string>
+    <string name="ac_about">About Us</string>
+    <string name="ac_develop">Developer</string>
+    <string name="ac_help">Help</string>
+    <string name="ac_utility">Utilities</string>
+    <string name="exit">Exit</string>
+
+    <!-- Developer -->
+    <string name="d_name">Paul Chuma</string>
+    <string name="d_id">1308893993</string>
+    <string name="d_course">Mobile Programming</string>
+    <string name="d_program">BA of Information Security and Computer Forensics</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
