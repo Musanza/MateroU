@@ -1,2 +1,2 @@
 # UtilityApp
-![alt text](https://github.com/[Musanza]/[MateroU]/blob/[branch]/1.jpeg?raw=true)
+![Splash Screen](https://raw.githubusercontent.com/Musanza/MateroU/main/1.jpeg)
